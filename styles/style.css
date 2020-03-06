@@ -1,0 +1,21 @@
+html {
+    background-image: url(https://natroix.ru/wp-content/uploads/2017/02/Na_sayt_1_0.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+   
+}
+.body {
+    width: 1800px;
+}
+.text1 {
+    text-align: center;
+    color: blue;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.text2 {
+    color:teal;
+   
+    font-size:20px;
+}
